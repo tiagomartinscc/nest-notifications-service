@@ -44,8 +44,6 @@ Validadores e transformadores para validação e transformação de dados
 $ npm i class-validator class-transformer
 ```
 
-
-
 ## Running the app
 
 ```bash
